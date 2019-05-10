@@ -1,0 +1,22 @@
+_Task_LowBat: CODE, 251 0 33
+_Task_IRSend: CODE, 457 0 12
+_DelayUs: CODE, 493 0 9
+_BoardInit: CODE, 313 0 23
+_ISR: CODE, 11 0 75
+_ADCInit: CODE, 502 0 9
+_Timer2DeInit: CODE, 432 0 13
+_INTInit: CODE, 511 0 8
+_Pwm4Init: CODE, 373 0 16
+_main: CODE, 284 0 29
+_Timer1Init: CODE, 419 0 13
+i1_Timer1Init: CODE, 469 0 12
+_Pwm5Init: CODE, 357 0 16
+_Task_Idle: CODE, 405 0 14
+_Task_SoftPwm: CODE, 86 0 68
+_ClockInit: CODE, 336 0 21
+_Timer2Init: CODE, 389 0 16
+_GET_ADC_DATA: CODE, 209 0 42
+_Task_Key: CODE, 154 0 55
+_Timer1DeInit: CODE, 481 0 12
+_Timer0Init: CODE, 519 0 6
+Total: 502
